@@ -1,0 +1,2 @@
+module ActiveadminXls
+end
